@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+}
+
+header, footer {
+    background-color: darkslateblue;
+    color: cornsilk;
+}
+
+a {
+    color:  rgb(252, 160, 55)
+}
+
+h1, h2, p {
+   text-align: center;
+}
